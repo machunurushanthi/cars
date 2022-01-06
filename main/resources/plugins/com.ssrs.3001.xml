@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <id>com.ssrs.3001.PickupPlugin</id>
+    <class>com.ssrs.3001.PickupPlugin</class>
+    <name>pickup</name>
+    <author>ssrs</author>
+    <provider>ssrs</provider>
+    <version>1.0</version>
+    <description>pickup</description>
+
+</plugin>
